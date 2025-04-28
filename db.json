@@ -1,0 +1,11 @@
+{
+  "top": [
+    { "id": "1", "assetname": "верхМУЖ1", "url": "https://drive.google.com/file/d/12R4ItY9jxHSWeH_9sDkp-fCbUb2Vvzyu/view?usp=drive_link"},
+    { "id": "2", "assetname": "верхМУЖ2", "url": "https://drive.google.com/file/d/1R9DJT-kusGiwWgY1qO6ngUu6DvAhDKII/view?usp=drive_link"},
+    { "id": "3", "assetname": "верхМУЖ3", "url": "https://drive.google.com/file/d/1p1I2SYLOBxEBdICbtyQczJAfMv72qRku/view?usp=drive_link"}
+  ],
+  "shoes": [
+    { "id": "1", "assetname": "ccshoes1", "url": "https://drive.google.com/file/d/1OKX5xNBENl5hajEAEwJuwH1wlc1tb4sz/view?usp=drive_link"},
+    { "id": "2", "assetname": "ccshoes1", "url": "https://drive.google.com/file/d/1WSfVcynV1esLv8QzurSJ6BIJ9k5zudJB/view?usp=drive_link"}
+  ],
+}
