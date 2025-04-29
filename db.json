@@ -6,6 +6,9 @@
   ],
   "shoes": [
     { "id": "1", "assetname": "ccshoes1", "url": "https://lh3.googleusercontent.com/d/1OKX5xNBENl5hajEAEwJuwH1wlc1tb4sz"},
-    { "id": "2", "assetname": "ccshoes1", "url": "https://lh3.googleusercontent.com/d/1WSfVcynV1esLv8QzurSJ6BIJ9k5zudJB"}
+    { "id": "2", "assetname": "ccshoes2", "url": "https://lh3.googleusercontent.com/d/1WSfVcynV1esLv8QzurSJ6BIJ9k5zudJB"},
+    { "id": "3", "assetname": "ccshoes3", "url": "https://lh3.googleusercontent.com/d/13uREVE_kYlEg2ZfKaB1qr9ay10T83SsY"},
+    { "id": "4", "assetname": "ccshoes4", "url": "https://lh3.googleusercontent.com/d/1ejzCngLFpWVEcwIdUJYriQSA3dAhP0GA"},
+    { "id": "5", "assetname": "ccshoes5", "url": "https://lh3.googleusercontent.com/d/1-s243mk9urPoSB7ke_NG5bXZ1TooyBqZ"}
   ]
 }
