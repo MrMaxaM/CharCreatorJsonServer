@@ -1,5 +1,9 @@
 {
   "male": {
+
+    "bodies": [
+      { "id": "1", "assetname": "skin1", "url": "https://lh3.googleusercontent.com/d/1JOfMBkVav6Cx0JOLGm-GlAQ0JkySC5ov"},
+    ],
     
     "hair": [
     ],
@@ -20,6 +24,10 @@
   },
   
   "female": {
+
+    "bodies": [
+        { "id": "1", "assetname": "skin1", "url": "https://lh3.googleusercontent.com/d/1JJwrMnMsmCy9wv_O68qZ0IDxwL_aUypC"},
+      ],
     
     "hair": [
       { "id": "1", "assetname": "hairsidewomen1", "url": "https://lh3.googleusercontent.com/d/1y5h5QYEgJ-UBBITLa8Lr8WE_hRg7UXLZ"},
