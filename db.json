@@ -1,4 +1,9 @@
 {
+  "hair": [
+    { "id": "1", "assetname": "hairsidewomen1", "url": "https://lh3.googleusercontent.com/d/1y5h5QYEgJ-UBBITLa8Lr8WE_hRg7UXLZ"},
+    { "id": "2", "assetname": "hairsidewomen2", "url": "https://lh3.googleusercontent.com/d/1KoQe_YFUtHf1SijpvfQy7xxO6HnDNryH"},
+    { "id": "3", "assetname": "hairsidewomen3", "url": "https://lh3.googleusercontent.com/d/1YKGPje0IwLUh4knpoc2LuyGxnsyA9ilq"}
+  ],
   "outerwear": [
     { "id": "1", "assetname": "верхМУЖ1", "url": "https://lh3.googleusercontent.com/d/12R4ItY9jxHSWeH_9sDkp-fCbUb2Vvzyu"},
     { "id": "2", "assetname": "верхМУЖ2", "url": "https://lh3.googleusercontent.com/d/1R9DJT-kusGiwWgY1qO6ngUu6DvAhDKII"},
