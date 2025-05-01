@@ -112,11 +112,7 @@
    ],
 
    "outerwear": [
-    { "id": "1", "assetname": "OuterwearWomen1", "url": "https://lh3.googleusercontent.com/d/1kTuQpdHkPrJFTX1jgkrd-j_4ohr7ps2K"},
-    { "id": "1", "assetname": "OuterwearWomen2", "url": "https://lh3.googleusercontent.com/d/1ONU75bM7j4tVDSDNIidF0NWMtzUCTEvO"},
-    { "id": "1", "assetname": "OuterwearWomen3", "url": "https://lh3.googleusercontent.com/d/1FZzPdLHyKu04xbtWguHijUj2ElrHh2Kf"},
-    { "id": "1", "assetname": "OuterwearWomen4", "url": "https://lh3.googleusercontent.com/d/1ejzF0lGWyeEQMSavL95gF2hD8c0vXqkL"}
-    
+
    ],
 
    "bottom": [
