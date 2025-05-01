@@ -6,30 +6,43 @@
     ],
 
     "hair": [
+      { "id": "1", "assetname": "hairsidewomen1", "url": "https://lh3.googleusercontent.com/d/1y5h5QYEgJ-UBBITLa8Lr8WE_hRg7UXLZ"},
+      { "id": "2", "assetname": "hairsidewomen2", "url": "https://lh3.googleusercontent.com/d/1KoQe_YFUtHf1SijpvfQy7xxO6HnDNryH"},
+      { "id": "3", "assetname": "hairsidewomen3", "url": "https://lh3.googleusercontent.com/d/1YKGPje0IwLUh4knpoc2LuyGxnsyA9ilq"}
     ],
 
     "body_parts": [
     ],
 
     "outerwear": [
+      { "id": "1", "assetname": "верхМУЖ1", "url": "https://lh3.googleusercontent.com/d/12R4ItY9jxHSWeH_9sDkp-fCbUb2Vvzyu"},
+      { "id": "2", "assetname": "верхМУЖ2", "url": "https://lh3.googleusercontent.com/d/1R9DJT-kusGiwWgY1qO6ngUu6DvAhDKII"},
+      { "id": "3", "assetname": "верхМУЖ3", "url": "https://lh3.googleusercontent.com/d/1p1I2SYLOBxEBdICbtyQczJAfMv72qRku"}
     ],
 
     "bottom": [
     ],
 
     "shoes": [
+      { "id": "1", "assetname": "ccshoes1", "url": "https://lh3.googleusercontent.com/d/1OKX5xNBENl5hajEAEwJuwH1wlc1tb4sz"},
+      { "id": "2", "assetname": "ccshoes2", "url": "https://lh3.googleusercontent.com/d/1WSfVcynV1esLv8QzurSJ6BIJ9k5zudJB"},
+      { "id": "3", "assetname": "ccshoes3", "url": "https://lh3.googleusercontent.com/d/13uREVE_kYlEg2ZfKaB1qr9ay10T83SsY"},
+      { "id": "4", "assetname": "ccshoes4", "url": "https://lh3.googleusercontent.com/d/1ejzCngLFpWVEcwIdUJYriQSA3dAhP0GA"},
+      { "id": "5", "assetname": "ccshoes5", "url": "https://lh3.googleusercontent.com/d/1-s243mk9urPoSB7ke_NG5bXZ1TooyBqZ"}
     ],
 
     "jewelry": [
     ],
 
     "background": [
+      { "id": "1", "assetname": "background1", "url": "https://lh3.googleusercontent.com/d/1mqP7MlDyG-BAzC6rOxAepW69xqtKUBdi"}
     ]
   },
   
   "female": {
 
     "face": [
+      { "id": "1", "assetname": "skin1", "url": "https://lh3.googleusercontent.com/d/1JJwrMnMsmCy9wv_O68qZ0IDxwL_aUypC"}
    ],
 
    "hair": [
@@ -112,18 +125,27 @@
    ],
 
    "outerwear": [
+      { "id": "1", "assetname": "верхМУЖ1", "url": "https://lh3.googleusercontent.com/d/12R4ItY9jxHSWeH_9sDkp-fCbUb2Vvzyu"},
+      { "id": "2", "assetname": "верхМУЖ2", "url": "https://lh3.googleusercontent.com/d/1R9DJT-kusGiwWgY1qO6ngUu6DvAhDKII"},
+      { "id": "3", "assetname": "верхМУЖ3", "url": "https://lh3.googleusercontent.com/d/1p1I2SYLOBxEBdICbtyQczJAfMv72qRku"}
    ],
 
    "bottom": [
    ],
 
    "shoes": [
+      { "id": "1", "assetname": "ccshoes1", "url": "https://lh3.googleusercontent.com/d/1OKX5xNBENl5hajEAEwJuwH1wlc1tb4sz"},
+      { "id": "2", "assetname": "ccshoes2", "url": "https://lh3.googleusercontent.com/d/1WSfVcynV1esLv8QzurSJ6BIJ9k5zudJB"},
+      { "id": "3", "assetname": "ccshoes3", "url": "https://lh3.googleusercontent.com/d/13uREVE_kYlEg2ZfKaB1qr9ay10T83SsY"},
+      { "id": "4", "assetname": "ccshoes4", "url": "https://lh3.googleusercontent.com/d/1ejzCngLFpWVEcwIdUJYriQSA3dAhP0GA"},
+      { "id": "5", "assetname": "ccshoes5", "url": "https://lh3.googleusercontent.com/d/1-s243mk9urPoSB7ke_NG5bXZ1TooyBqZ"}
    ],
 
    "jewelry": [
    ],
 
    "background": [
+      { "id": "1", "assetname": "background1", "url": "https://lh3.googleusercontent.com/d/1mqP7MlDyG-BAzC6rOxAepW69xqtKUBdi"}
    ]
   }
 }
