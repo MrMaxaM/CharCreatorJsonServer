@@ -1,8 +1,13 @@
 {
   "male": {
 
+    "bodies": [
+      { "id": "1", "assetname": "skin1", "url": "https://lh3.googleusercontent.com/d/1JOfMBkVav6Cx0JOLGm-GlAQ0JkySC5ov"}
+    ],
+
     "face": [
-       { "id": "1", "assetname": "skin1", "url": "https://lh3.googleusercontent.com/d/1JQDgqS0MFim3gMc5Gqzphk4eU4GwsdDz"}
+       { "id": "1", "assetname": "skin1", "url": "https://lh3.googleusercontent.com/d/1JQDgqS0MFim3gMc5Gqzphk4eU4GwsdDz"},
+       { "id": "2", "assetname": "skin2", "url": "https://lh3.googleusercontent.com/d/1JOfMBkVav6Cx0JOLGm-GlAQ0JkySC5ov"}
     ],
 
     "hair": [
@@ -67,6 +72,9 @@
     ],
 
     "outerwear": [
+      { "id": "1", "assetname": "outerwearMale1", "url": "https://lh3.googleusercontent.com/d/11m8LNINF0tcn_UwJaV0ezFTQ1nD6Qtn7"},
+      { "id": "2", "assetname": "outerwearMale2", "url": "https://lh3.googleusercontent.com/d/1akLSdAe5RyVknC8XjKcamCY-stEcxy9C"},
+      { "id": "3", "assetname": "outerwearMale3", "url": "https://lh3.googleusercontent.com/d/1fVA9Ed3o3AsuLsbTOo7Hp_haPnb0LDwo"}
     ],
 
     "bottom": [
@@ -83,6 +91,9 @@
   },
   
   "female": {
+    "bodies": [
+        { "id": "1", "assetname": "skin1", "url": "https://lh3.googleusercontent.com/d/1JJwrMnMsmCy9wv_O68qZ0IDxwL_aUypC"}
+      ],
 
     "face": [
       { "id": "1", "assetname": "skin1", "url": "https://lh3.googleusercontent.com/d/1JJwrMnMsmCy9wv_O68qZ0IDxwL_aUypC"}
@@ -165,6 +176,8 @@
    ],
 
    "body_parts": [
+    { "id": "1", "assetname": "Body_partsWomen1", "url": "https://lh3.googleusercontent.com/d/1AZPNpwq_gjqWafbIUF_9kAKmjUuYIWfc"},
+    { "id": "2", "assetname": "Body_partsWomen2", "url": "https://lh3.googleusercontent.com/d/18MwhtpQW4HF3IMmB6ENEELQgAyrm2OIu"}
    ],
 
    "outerwear": [
@@ -276,10 +289,12 @@
     { "id": "24", "assetname": "ShoesWomen24", "url": "https://lh3.googleusercontent.com/d/17_MU__j4hkAbQqFbxMTxdBecnPJRmZkn"},
     { "id": "25", "assetname": "ShoesWomen25", "url": "https://lh3.googleusercontent.com/d/1z7uUMfk04gwKSIBv0a4SKLOq8tqWrJGA"},
     { "id": "26", "assetname": "ShoesWomen26", "url": "https://lh3.googleusercontent.com/d/1Gwkhb21Uzd7nk5R2xAKku3J3m9Ck7BrW"}
- 
    ],
 
    "jewelry": [
+    { "id": "1", "assetname": "JewelryWomen1", "url": "https://lh3.googleusercontent.com/d/142nJe8DcQfvMfc1g63ASvkgKT8U8Bpiz"},
+    { "id": "2", "assetname": "JewelryWomen2", "url": "https://lh3.googleusercontent.com/d/1m-qMJXHh8t-rLn5kkrdJ_LndOaYwq5ft"},
+    { "id": "3", "assetname": "JewelryWomen3", "url": "https://lh3.googleusercontent.com/d/1XEsPC9xHY_1WKsXkgwBeyg3_46_HSgIF"}
    ],
 
    "background": [
