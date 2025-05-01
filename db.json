@@ -12,6 +12,9 @@
     ],
 
     "body_parts": [
+      { "id": "1", "assetname": "HairWomen1", "url": "https://lh3.googleusercontent.com/d/1-cRmsCVqsvP5OL_ZvVvUdNsLLLb0ExF0"},
+      { "id": "2", "assetname": "HairWomen2", "url": "https://lh3.googleusercontent.com/d/1XmbUp-P7R3OL58cyTaFKi-N670du3-PM"},
+      { "id": "3", "assetname": "HairWomen3", "url": "https://lh3.googleusercontent.com/d/12_fImYSWytfSOvq3CPUkYglG8nlmEJFb"}
     ],
 
     "outerwear": [
