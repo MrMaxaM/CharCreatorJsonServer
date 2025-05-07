@@ -5,9 +5,42 @@
       { "id": "1", "assetname": "skin1", "url": "https://lh3.googleusercontent.com/d/1JOfMBkVav6Cx0JOLGm-GlAQ0JkySC5ov"}
     ],
 
-    "face": [
-       { "id": "1", "assetname": "skin1", "url": "https://lh3.googleusercontent.com/d/1JQDgqS0MFim3gMc5Gqzphk4eU4GwsdDz"},
-       { "id": "2", "assetname": "skin2", "url": "https://lh3.googleusercontent.com/d/1JOfMBkVav6Cx0JOLGm-GlAQ0JkySC5ov"}
+    "eyes": [
+      { "id": "1", "assetname": "EyesMale1", "url": "https://lh3.googleusercontent.com/d/1oi1j9o-NOvRH1Y0iuLeUiwiYUtVEDY8S"},
+      { "id": "2", "assetname": "EyesMale2", "url": "https://lh3.googleusercontent.com/d/1dELWPhBqtznLl8U02hVX8JruSTbkUZg7"},
+      { "id": "3", "assetname": "EyesMale3", "url": "https://lh3.googleusercontent.com/d/1EoXd9qCqG3UTR55uRd2YhJ76DYpICHz8"},
+      { "id": "4", "assetname": "EyesMale4", "url": "https://lh3.googleusercontent.com/d/111ZWpQPdgMcb3R6QkxbXeP1vqZt-x6vw"}
+    ],
+
+    "eyebrows": [
+      { "id": "1", "assetname": "EyebrowsMale1", "url": "https://lh3.googleusercontent.com/d/1oq3bdO7qaOscebn9INbgKZ67BoJFKoWm"},
+      { "id": "2", "assetname": "EyebrowsMale2", "url": "https://lh3.googleusercontent.com/d/1sfvf9QCAKU1G_WFgXjQpTJRA-pIOGXpX"},
+      { "id": "3", "assetname": "EyebrowsMale3", "url": "https://lh3.googleusercontent.com/d/1ZAvDVhVBdUmC-MEGGczCNFEuAjlGnaPg"},
+      { "id": "4", "assetname": "EyebrowsMale4", "url": "https://lh3.googleusercontent.com/d/1tWm2BWGocPzEMzafwqIZQZ_7J96A0BVP"}
+
+    ],
+
+    "nose": [
+      { "id": "1", "assetname": "NoseMale1", "url": "https://lh3.googleusercontent.com/d/14N2YVK0UiQIkecgsMdq74S9i9JJ3IBb8"},
+      { "id": "2", "assetname": "NoseMale2", "url": "https://lh3.googleusercontent.com/d/168BzGpaqBalEr8QKqxfz1TxZ3dNivgeA"},
+      { "id": "3", "assetname": "NoseMale3", "url": "https://lh3.googleusercontent.com/d/1WPvWF4bZaainvzLH9qjzb7wSZuzRGh-c"},
+      { "id": "4", "assetname": "NoseMale4", "url": "https://lh3.googleusercontent.com/d/1nCrgGevPAmIHOlWXqr7m-TtoUd7TLOKD"}
+    ],
+
+    "mouth": [
+      { "id": "1", "assetname": "MouthMale1", "url": "https://lh3.googleusercontent.com/d/1S4TG0QYDqh4MfRCUTDz1iNAsOj6B4XTf"},
+      { "id": "2", "assetname": "MouthMale2", "url": "https://lh3.googleusercontent.com/d/1INbESvb68ZmrHqFMBqBTOKi7E6v-9_Wd"},
+      { "id": "3", "assetname": "MouthMale3", "url": "https://lh3.googleusercontent.com/d/1-bL37FowCUNNsTa1oxWkTB1ChlwWQ2hv"},
+      { "id": "4", "assetname": "MouthMale4", "url": "https://lh3.googleusercontent.com/d/1t7vyQ7SOi3yJHHeHs6nseUCZsQNnrJHE"}
+
+    ],
+
+    "ears": [
+      { "id": "1", "assetname": "MouthMale1", "url": "https://lh3.googleusercontent.com/d/1xdD_mhsnqsyr6wc_8lcEsEO_F10uWj2x"},
+      { "id": "2", "assetname": "MouthMale2", "url": "https://lh3.googleusercontent.com/d/1x8kJrLpb5aO3e9UhcLSJWwTnfNC5hpLM"},
+      { "id": "3", "assetname": "MouthMale3", "url": "https://lh3.googleusercontent.com/d/1WUabNrnOd7U-v0T503U_g6fyDn6DJbSe"},
+      { "id": "4", "assetname": "MouthMale4", "url": "https://lh3.googleusercontent.com/d/11a8uepAHvZWV5q5z6oQXLJUyGZjy3piRW"},
+      { "id": "5", "assetname": "MouthMale5", "url": "https://lh3.googleusercontent.com/d/1Pn8-BMQmKGsbMZMtQwv4mzVwkwMo29zs"}
     ],
 
     "hair": [
@@ -68,7 +101,24 @@
       { "id": "55", "assetname": "HairMale93", "url": "https://lh3.googleusercontent.com/d/1LSAcf7T0hQ8hIEBhCa-LqSOxbc1hvpPY"}   
     ],
 
-    "body_parts": [
+    "wings": [
+      { "id": "1", "assetname": "WingsMale1", "url": "https://lh3.googleusercontent.com/d/1jDrvam4UE2foTn13BBrc-5c9iDrkyuw9"},
+      { "id": "2", "assetname": "WingsMale2", "url": "https://lh3.googleusercontent.com/d/1kzvU-T87zKXBcKK19PeHKkIQjvnowqvG"},
+      { "id": "3", "assetname": "WingsMale3", "url": "https://lh3.googleusercontent.com/d/1WnKRJq52a7atLTjd5QKv5sosTQiAWMaA"}
+    ],
+
+    "horns": [
+      { "id": "1", "assetname": "HornsMale1", "url": "https://lh3.googleusercontent.com/d/1vyuYLnNb3a_4RHWkwdao3W9ukVOCwwqN"},
+      { "id": "2", "assetname": "HornsMale2", "url": "https://lh3.googleusercontent.com/d/19YC7EiQmkhIVSD1oftGZBWEadQE6zlhX"},
+      { "id": "3", "assetname": "HornsMale3", "url": "https://lh3.googleusercontent.com/d/1Mr5P36Uw1uEM0Njwjc19m40vuMGGNDXv"},
+      { "id": "4", "assetname": "HornsMale4", "url": "https://lh3.googleusercontent.com/d/17ieneqv4ll9Sri6CH5WNOy5PlIg1W5AJ"}
+    ],
+
+    "tails": [
+      { "id": "1", "assetname": "TailsMale1", "url": "https://lh3.googleusercontent.com/d/11nXh17LgpkYZwvbkaspY1QFm_QEZucOy"},
+      { "id": "2", "assetname": "TailsMale2", "url": "https://lh3.googleusercontent.com/d/1JwczdGccsXK5v9_8z9HAnd2gVExhkHsq"},
+      { "id": "3", "assetname": "TailsMale3", "url": "https://lh3.googleusercontent.com/d/1Ji9teiUHqoXgigvv7vrvgQx3SivDRzfH"},
+      { "id": "4", "assetname": "TailsMale4", "url": "https://lh3.googleusercontent.com/d/18J_FhevcGwnXqkNh1UfIt1vuo99Az1vb"}
     ],
 
     "outerwear": [
@@ -77,16 +127,46 @@
       { "id": "3", "assetname": "outerwearMale3", "url": "https://lh3.googleusercontent.com/d/1fVA9Ed3o3AsuLsbTOo7Hp_haPnb0LDwo"}
     ],
 
-    "bottom": [
+    "bottom": [     
+      { "id": "1", "assetname": "BottomMale1", "url": "https://lh3.googleusercontent.com/d/1mtoRAj0fykaZlzv6_KWNvDAfN3No0xih"},
+      { "id": "2", "assetname": "BottomMale2", "url": "https://lh3.googleusercontent.com/d/1vJk4onf_eEub7ynY6w-X74HjOmL0ML-l"},
+      { "id": "3", "assetname": "BottomMale3", "url": "https://lh3.googleusercontent.com/d/1cr4eBro9ZZrD_LVuN_gSFhdVaPOnDM-2"},
+      { "id": "4", "assetname": "BottomMale4", "url": "https://lh3.googleusercontent.com/d/1nW6-w69h6OkrEALOibZ1g7Wi1TjFWKhc"}
     ],
 
     "shoes": [
+      { "id": "1", "assetname": "ShoesMale1", "url": "https://lh3.googleusercontent.com/d/1d2hX5EGrwckMhRyR6fqVymEyG1RE4yAB"},
+      { "id": "2", "assetname": "ShoesMale2", "url": "https://lh3.googleusercontent.com/d/1MkW-7HdxS42DCY3NRmUYYvbvb15U_UwJ"},
+      { "id": "3", "assetname": "ShoesMale3", "url": "https://lh3.googleusercontent.com/d/1t-h0YRaxmCeWl-x2aChPGd_rKno4aiP4"},
+      { "id": "4", "assetname": "ShoesMale4", "url": "https://lh3.googleusercontent.com/d/1bljel8yICXJGNAfbEWXz3AoClJ7iPweN"}
     ],
 
-    "jewelry": [
+    "hats": [
+      { "id": "1", "assetname": "HatsMale1", "url": "https://lh3.googleusercontent.com/d/1kYfg-iIpbafWGh21zk7Mfmz_9b0P6P2L"},
+      { "id": "2", "assetname": "HatsMale2", "url": "https://lh3.googleusercontent.com/d/1M9suHRuYnPX6IbBQOqxeG4tp9cB0Li1N"},
+      { "id": "3", "assetname": "HatsMale3", "url": "https://lh3.googleusercontent.com/d/1BewsJhzyDwbnBUa8eUXP1m30mP_o1-XX"}
+    ],
+
+    "belts": [
+      { "id": "1", "assetname": "BeltsMale1", "url": "https://lh3.googleusercontent.com/d/1kYfg-iIpbafWGh21zk7Mfmz_9b0P6P2L"},
+      { "id": "2", "assetname": "BeltsMale2", "url": "https://lh3.googleusercontent.com/d/1M9suHRuYnPX6IbBQOqxeG4tp9cB0Li1N"},
+      { "id": "3", "assetname": "BeltsMale3", "url": "https://lh3.googleusercontent.com/d/1BewsJhzyDwbnBUa8eUXP1m30mP_o1-XX"}
+    ],
+
+    "gloves": [
+      { "id": "1", "assetname": "GlovesMale1", "url": "https://lh3.googleusercontent.com/d/1Ssfg9l5aGmGOl9hEkwJp_2FChjmlFAyH"},
+      { "id": "2", "assetname": "GlovesMale2", "url": "https://lh3.googleusercontent.com/d/1SIAWzlVxyYHvnpuV4zdckWr_0zRHEnWk"},
+      { "id": "3", "assetname": "GlovesMale3", "url": "https://lh3.googleusercontent.com/d/100XB8cApysuBzsbbAEpmz66tRJN6BUXY"}
+    ],
+
+    "neck": [
+      { "id": "1", "assetname": "NeckMale1", "url": "https://lh3.googleusercontent.com/d/1Zag_bEeuqTjIrwck9e08Gs_7CjiHTMxo"},
+      { "id": "2", "assetname": "NeckMale2", "url": "https://lh3.googleusercontent.com/d/1egIry5SFQQOAwUYRG0wYxix4pyImtx5R"},
+      { "id": "3", "assetname": "NeckMale3", "url": "https://lh3.googleusercontent.com/d/1WT5Gri-rdOxsBOvVlizEyQpTFHlzkr0K"}
     ],
 
     "background": [
+      { "id": "1", "assetname": "back1", "url": "https://lh3.googleusercontent.com/d/1mqP7MlDyG-BAzC6rOxAepW69xqtKUBdi"}
     ]
   },
   
@@ -95,9 +175,43 @@
         { "id": "1", "assetname": "skin1", "url": "https://lh3.googleusercontent.com/d/1JJwrMnMsmCy9wv_O68qZ0IDxwL_aUypC"}
       ],
 
-    "face": [
-      { "id": "1", "assetname": "skin1", "url": "https://lh3.googleusercontent.com/d/1JJwrMnMsmCy9wv_O68qZ0IDxwL_aUypC"}
-   ],
+      "eyes": [
+        { "id": "1", "assetname": "EyesFem1", "url": "https://lh3.googleusercontent.com/d/1oMR_Ycxu5hXc1AkmWC3j8b53rR1R_DCN"},
+        { "id": "2", "assetname": "EyesFem2", "url": "https://lh3.googleusercontent.com/d/1zbuwEL4MMnDDWLzLMG-Hf6FK98CWASNu"},
+        { "id": "3", "assetname": "EyesFem3", "url": "https://lh3.googleusercontent.com/d/1Ea2sH6-ePdYwG25EEf4pqESSpA4-m9Xs"},
+        { "id": "4", "assetname": "EyesFem4", "url": "https://lh3.googleusercontent.com/d/1-11aJL4BK7uKzYOgtvjfxLKPgUilya-V"}
+      ],
+  
+      "eyebrows": [
+        { "id": "1", "assetname": "EyebrowsFem1", "url": "https://lh3.googleusercontent.com/d/1IN2yOaQSFt8Xi8VBXOsxFawmgslnWnPi"},
+        { "id": "2", "assetname": "EyebrowsFem2", "url": "https://lh3.googleusercontent.com/d/181hGuRK3N1T0OfdFkXIyV36G0ESoubih"},
+        { "id": "3", "assetname": "EyebrowsFem3", "url": "https://lh3.googleusercontent.com/d/1SGdvZA4g6qQFITJ6Zppts0XWIuyeoFJ_"},
+        { "id": "4", "assetname": "EyebrowsFem4", "url": "https://lh3.googleusercontent.com/d/15V_uzIl7NAuxlg0FBbAoF6FNSQkbLoRX"}
+  
+      ],
+  
+      "nose": [
+        { "id": "1", "assetname": "NoseFem1", "url": "https://lh3.googleusercontent.com/d/1Wn3PTUtiTQ2Hgy9Ygr48E9xRScGFkPGh"},
+        { "id": "2", "assetname": "NoseFem2", "url": "https://lh3.googleusercontent.com/d/1nCYwbWygYu6wzeUAIq6zWLIma9ZPglpx"},
+        { "id": "3", "assetname": "NoseFem3", "url": "https://lh3.googleusercontent.com/d/1NAZ_eFsYhkAqdRMcn4imH7e4qH-WvyRX"},
+        { "id": "4", "assetname": "NoseFem4", "url": "https://lh3.googleusercontent.com/d/1DpYwRJ6kfzWxeITlVWZW91cKx5qDHFAi"}
+      ],
+  
+      "mouth": [
+        { "id": "1", "assetname": "MouthFem1", "url": "https://lh3.googleusercontent.com/d/1UjKPlmiUN0H-tXQXb7VR40vHqSFKvTpK"},
+        { "id": "2", "assetname": "MouthFem2", "url": "https://lh3.googleusercontent.com/d/1FU8HCb16haiKogh7Aq0QNz-A8i_f5qM7"},
+        { "id": "3", "assetname": "MouthFem3", "url": "https://lh3.googleusercontent.com/d/1i-0RgGUDD32W1OrDqbcWK7VBmWwV3M4A"},
+        { "id": "4", "assetname": "MouthFem4", "url": "https://lh3.googleusercontent.com/d/1rkMJ_XRrh3M8WKhmyD_f_XCFJ-xxTUzm"}
+  
+      ],
+  
+      "ears": [
+        { "id": "1", "assetname": "MouthMale1", "url": "https://lh3.googleusercontent.com/d/1afXzaSG7DfDnHQ2CF3cNcNM5EN7t__AX"},
+        { "id": "2", "assetname": "MouthMale2", "url": "https://lh3.googleusercontent.com/d/1qyzfn3QOLDcGsje8zGmHO8PxF45SwNr0"},
+        { "id": "3", "assetname": "MouthMale3", "url": "https://lh3.googleusercontent.com/d/1yiiGX9p2cG4phfWK6rW17OiWo-HzDXq7"},
+        { "id": "4", "assetname": "MouthMale4", "url": "https://lh3.googleusercontent.com/d/1VYpYCtQgRMP1OZBMolya9yUOKR-nO2ma"},
+        { "id": "5", "assetname": "MouthMale5", "url": "https://lh3.googleusercontent.com/d/1AZsLixYltP8QVhqTQzh_F6p7FGDDUrK3"}
+      ],
 
    "hair": [
       { "id": "1", "assetname": "HairWomen11", "url": "https://lh3.googleusercontent.com/d/1-cRmsCVqsvP5OL_ZvVvUdNsLLLb0ExF0"},
@@ -175,10 +289,25 @@
       { "id": "73", "assetname": "HairWomen93", "url": "https://lh3.googleusercontent.com/d/1KUrRlb6ObFEOna-AO9ggCokcPGFpMuLA"}
    ],
 
-   "body_parts": [
-    { "id": "1", "assetname": "Body_partsWomen1", "url": "https://lh3.googleusercontent.com/d/1AZPNpwq_gjqWafbIUF_9kAKmjUuYIWfc"},
-    { "id": "2", "assetname": "Body_partsWomen2", "url": "https://lh3.googleusercontent.com/d/18MwhtpQW4HF3IMmB6ENEELQgAyrm2OIu"}
-   ],
+   "wings": [
+    { "id": "1", "assetname": "WingsFem1", "url": "https://lh3.googleusercontent.com/d/1Y7LBJjPHqjutKQQdloI_hABD4uXqbnvY"},
+    { "id": "2", "assetname": "WingsFem2", "url": "https://lh3.googleusercontent.com/d/1_SCmiU0se0VVlWhs4V3xTRZQ9NXaymlf"},
+    { "id": "3", "assetname": "WingsFem3", "url": "https://lh3.googleusercontent.com/d/1Ge10xbgKvKpmXLwlXeynbkB1zItzCqMe"}
+  ],
+
+  "horns": [
+    { "id": "1", "assetname": "HornsFem1", "url": "https://lh3.googleusercontent.com/d/1A89WrS2C5M6B8-ZrhEu_5WBgDumHOO6F"},
+    { "id": "2", "assetname": "HornsFem2", "url": "https://lh3.googleusercontent.com/d/1LInHIl9rEQV_BzVabDiPCJftBhZibve7"},
+    { "id": "3", "assetname": "HornsFem3", "url": "https://lh3.googleusercontent.com/d/1sMbLResCvfb-hEgGC09Bmh2qsjkvKTVS"},
+    { "id": "4", "assetname": "HornsFem4", "url": "https://lh3.googleusercontent.com/d/1GqqpJwkkkhy42CQ9pWYXxI82VP-Adm7-"}
+  ],
+
+  "tails": [
+    { "id": "1", "assetname": "TailsFem1", "url": "https://lh3.googleusercontent.com/d/16SgIhJETcJmC81fYj62RxehIlq126qKh"},
+    { "id": "2", "assetname": "TailsFem2", "url": "https://lh3.googleusercontent.com/d/1z4NlXsF4BVbd2fSoT3D4vDcCjk98DiHI"},
+    { "id": "3", "assetname": "TailsFem3", "url": "https://lh3.googleusercontent.com/d/14BSihC11UuP5hHQeQq_o1lx3soT_fim0"},
+    { "id": "4", "assetname": "TailsFem4", "url": "https://lh3.googleusercontent.com/d/1q5Tp17a_DAAJR-SeWpAC4-oKUIhv2lAe"}
+  ],
 
    "outerwear": [
     { "id": "1", "assetname": "OuterwearWomen1", "url": "https://lh3.googleusercontent.com/d/1kTuQpdHkPrJFTX1jgkrd-j_4ohr7ps2K"},
@@ -291,13 +420,40 @@
     { "id": "26", "assetname": "ShoesWomen26", "url": "https://lh3.googleusercontent.com/d/1Gwkhb21Uzd7nk5R2xAKku3J3m9Ck7BrW"}
    ],
 
-   "jewelry": [
-    { "id": "1", "assetname": "JewelryWomen1", "url": "https://lh3.googleusercontent.com/d/142nJe8DcQfvMfc1g63ASvkgKT8U8Bpiz"},
-    { "id": "2", "assetname": "JewelryWomen2", "url": "https://lh3.googleusercontent.com/d/1m-qMJXHh8t-rLn5kkrdJ_LndOaYwq5ft"},
-    { "id": "3", "assetname": "JewelryWomen3", "url": "https://lh3.googleusercontent.com/d/1XEsPC9xHY_1WKsXkgwBeyg3_46_HSgIF"}
-   ],
+      "hats": [
+      { "id": "1", "assetname": "HatsFem1", "url": "https://lh3.googleusercontent.com/d/1BaLt2seC-YVB-k1swBMyD08YypP-Ydzl"},
+      { "id": "2", "assetname": "HatsFem2", "url": "https://lh3.googleusercontent.com/d/1e8xvo637bSZlZcl-Vqd9DQbK1WBx0llS"},
+      { "id": "3", "assetname": "HatsFem3", "url": "https://lh3.googleusercontent.com/d/1YOZq3QgfcjeXP4n7EvbHAJu3s_vial2G"}
+    ],
+
+    "belts": [
+      { "id": "1", "assetname": "BeltsFem1", "url": "https://lh3.googleusercontent.com/d/1XEsPC9xHY_1WKsXkgwBeyg3_46_HSgIF"},
+      { "id": "2", "assetname": "BeltsFem2", "url": "https://lh3.googleusercontent.com/d/1ffA8Os_4la2509x_5EIAOQUb09fxCZuy"},
+      { "id": "3", "assetname": "BeltsFem3", "url": "https://lh3.googleusercontent.com/d/1vaU_XaRWN_yBwf5nnwiyArJmyS95G1eO"},
+      { "id": "4", "assetname": "BeltsFem4", "url": "https://lh3.googleusercontent.com/d/1vJQaR0iBOBVEU2u_PMZ_FQUqw6-s1sTR"},
+      { "id": "5", "assetname": "BeltsFem5", "url": "https://lh3.googleusercontent.com/d/1m-qMJXHh8t-rLn5kkrdJ_LndOaYwq5ft"}
+    ],
+
+    "gloves": [
+      { "id": "1", "assetname": "GlovesFem1", "url": "https://lh3.googleusercontent.com/d/17ZK-YoF_P5ug5M5aqYQtMxThfctCV-kL"},
+      { "id": "2", "assetname": "GlovesFem2", "url": "https://lh3.googleusercontent.com/d/1aOr8tlDGUJp2hy3DVtjY4-2Gq9hsBRzL"},
+      { "id": "3", "assetname": "GlovesFem3", "url": "https://lh3.googleusercontent.com/d/1joSe1wb-0XGQHE5UeAIM43LiXB3x2uOh"},
+      { "id": "4", "assetname": "GlovesFem4", "url": "https://lh3.googleusercontent.com/d/1rmpkoLLu6FG-P0VH24kYNnfkKichUb66"},
+      { "id": "5", "assetname": "GlovesFem5", "url": "https://lh3.googleusercontent.com/d/1vskyJipvyniAltOVvOAnnXsH5csfFJ85"},
+      { "id": "6", "assetname": "GlovesFem6", "url": "https://lh3.googleusercontent.com/d/1XjJQCYTbHJjk5oESI7NC2JJQjb30Oqyu"}
+    ],
+
+    "neck": [
+      { "id": "1", "assetname": "NeckFem1", "url": "https://lh3.googleusercontent.com/d/180Ia-6hhEDUkNEF0wmuV3vPtszTUmVxL"},
+      { "id": "2", "assetname": "NeckFem2", "url": "https://lh3.googleusercontent.com/d/1aREzPjMKCupZoczRrbNYNeOiUFaxhgh8"},
+      { "id": "3", "assetname": "NeckFem3", "url": "https://lh3.googleusercontent.com/d/1mLFc6eJcjkrGBEb4tLoxylBWS6_WSUee"},
+      { "id": "4", "assetname": "NeckFem4", "url": "https://lh3.googleusercontent.com/d/1M5Jplq9MLoKYVS38rnO9R6qk4r7ftWSN"},
+      { "id": "5", "assetname": "NeckFem5", "url": "https://lh3.googleusercontent.com/d/1qgJP-y_CkQWdKmi5EAkWlYCaU4sRqKQZ"},
+      { "id": "6", "assetname": "NeckFem6", "url": "https://lh3.googleusercontent.com/d/1VwJ9TOqFS0IEHK-czyJZGzQ41zpN_X8m"}
+    ],
 
    "background": [
+    { "id": "1", "assetname": "back1", "url": "https://lh3.googleusercontent.com/d/1mqP7MlDyG-BAzC6rOxAepW69xqtKUBdi"}
    ]
   }
 }
