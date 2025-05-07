@@ -39,7 +39,7 @@
       { "id": "1", "assetname": "MouthMale1", "url": "https://lh3.googleusercontent.com/d/1xdD_mhsnqsyr6wc_8lcEsEO_F10uWj2x"},
       { "id": "2", "assetname": "MouthMale2", "url": "https://lh3.googleusercontent.com/d/1x8kJrLpb5aO3e9UhcLSJWwTnfNC5hpLM"},
       { "id": "3", "assetname": "MouthMale3", "url": "https://lh3.googleusercontent.com/d/1WUabNrnOd7U-v0T503U_g6fyDn6DJbSe"},
-      { "id": "4", "assetname": "MouthMale4", "url": "https://lh3.googleusercontent.com/d/11a8uepAHvZWV5q5z6oQXLJUyGZjy3piRW"},
+      { "id": "4", "assetname": "MouthMale4", "url": "https://lh3.googleusercontent.com/d/1a8uepAHvZWV5q5z6oQXLJUyGZjy3piRW"},
       { "id": "5", "assetname": "MouthMale5", "url": "https://lh3.googleusercontent.com/d/1Pn8-BMQmKGsbMZMtQwv4mzVwkwMo29zs"}
     ],
 
@@ -148,9 +148,9 @@
     ],
 
     "belts": [
-      { "id": "1", "assetname": "BeltsMale1", "url": "https://lh3.googleusercontent.com/d/1kYfg-iIpbafWGh21zk7Mfmz_9b0P6P2L"},
-      { "id": "2", "assetname": "BeltsMale2", "url": "https://lh3.googleusercontent.com/d/1M9suHRuYnPX6IbBQOqxeG4tp9cB0Li1N"},
-      { "id": "3", "assetname": "BeltsMale3", "url": "https://lh3.googleusercontent.com/d/1BewsJhzyDwbnBUa8eUXP1m30mP_o1-XX"}
+      { "id": "1", "assetname": "BeltsMale1", "url": "https://lh3.googleusercontent.com/d/1N48V5rgjgoVSsTjnC5jKGZ2gPvQasIhy"},
+      { "id": "2", "assetname": "BeltsMale2", "url": "https://lh3.googleusercontent.com/d/1FoE9-Dwj_UstjhiV5wwkgHSgY_wB1u0x"},
+      { "id": "3", "assetname": "BeltsMale3", "url": "https://lh3.googleusercontent.com/d/11aVKs_Sx6OKD8v63vd4vTHz5TwOwUDfz"}
     ],
 
     "gloves": [
